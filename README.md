@@ -15,3 +15,5 @@ To identify online payment fraud with machine learning, we need to train a machi
 8. oldbalanceDest: initial balance of recipient before the transaction
 9. newbalanceDest: the new balance of recipient after the transaction
 10. isFraud: fraud transaction
+
+
